@@ -1,5 +1,7 @@
 <h1>Hi there!, I'm Prachya Sangkharat (iCE) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+
 ===
+
 <h3>Student at Computer Science, KMITL (CS28)</h3> 
 ---
 
