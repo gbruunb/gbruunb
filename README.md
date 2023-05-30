@@ -7,8 +7,10 @@
 
 * 🌍  I'm based in Ladkrabang, Bangkok, KMITL 
 * 🖥️  See my portfolio at [Here](http://gbruunb.com) 
-* * ✉️  You can contact me at [unnameboy2546@hotmail.com](mailto:unnameboy2546@hotmail.com) 
-* * 🚀  I'm currently working on [Department of Computer Science, KMITL](http://www.comsci.science.kmitl.ac.th/) * 🧠  I'm learning Web App Framework and Game * ⚡  tell something
+* ✉️  You can contact me at [unnameboy2546@hotmail.com](mailto:unnameboy2546@hotmail.com) 
+* 🚀  I'm currently working on [Department of Computer Science, KMITL](http://www.comsci.science.kmitl.ac.th/) 
+* 🧠  I'm learning Web App Framework and Game 
+* ⚡  I want to learn more technology!
 
 <a href="https://www.github.com/gbruunb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gbruunb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
