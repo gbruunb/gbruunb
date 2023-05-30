@@ -47,6 +47,10 @@
  <a href="https://www.youtube.com/c/@unnamedboy_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/test"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -68,11 +72,4 @@
  <a href="https://github.com/gbruunb/CobotSMTE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gbruunb&repo=CobotSMTE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> 
  <a href="https://github.com/gbruunb/SATechnicalOnboarding" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gbruunb&repo=SATechnicalOnboarding&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
- </div>
  
- tt
-
-
-
-
-
