@@ -13,6 +13,7 @@
 * ⚡  I want to learn more technology!
 
 <a href="https://www.github.com/gbruunb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gbruunb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ice.unnameboy.gbru)
 
 ### Skills  
 <p align="left"> 
