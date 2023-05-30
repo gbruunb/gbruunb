@@ -54,7 +54,7 @@
 
 <div align="left"><a href="http://www.github.com/gbruunb"><img src="https://github-readme-stats.vercel.app/api?username=gbruunb&show_icons=true&count_private=true&show_icons=true&theme=radical" alt="gbruunb's GitHub stats" /></a></div>
 
-<div align="right"><a href="http://www.github.com/gbruunb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gbruunb&ring=0891b2&theme=radical" /></a></div>
+<div align="left"><a href="http://www.github.com/gbruunb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gbruunb&ring=0891b2&theme=radical" /></a></div>
 
 <div align="center"><a href="https://github.com/gbruunb" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbruunb&langs_count=10&locale=en&custom_title=Top%20%Languages&theme=radical" alt="Top Languages" /></a></div>
 <b>Top Repositories</b>
