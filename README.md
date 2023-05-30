@@ -14,6 +14,8 @@
 
 <a href="https://www.github.com/gbruunb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gbruunb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ice.unnameboy.gbru)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ice_gbru/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://gbruunb.com/)
 
 ### Skills  
 <p align="left"> 
